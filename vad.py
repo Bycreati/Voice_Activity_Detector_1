@@ -2,6 +2,7 @@
 """
 Created on Tue May  1 20:43:28 2018
 @author: eesungkim
+Автор: Бетин Вячеслав ИБ/б-21-1-о
 """
 import os
 import numpy as np
